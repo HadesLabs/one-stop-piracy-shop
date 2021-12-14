@@ -32,4 +32,20 @@ In terms of pirated content, these downloads don't need a VPN and can be downloa
 ### Torrent
 The second is a torrent. Torrents are also fairly easy to use once everything is setup correctly, and are used for many things, not just piracy. Linux distributions and other open source software is often distributed via torrent along with a DDL. Torrents operate very differently to DDLs. This time, when one person has a file they want to share, they create a torrent, and upload a torrent file to another platform. The torrent file doesn't contain any of the actual file the person wants to send, it's just so the torrent client knows what to download. 
 
-When the recipient starts downloading the torrent, it downloads directly from the person who shared it, completely bypassing the need for a central server. When the other person finishes downloading it, they start uploading it to anyone else who uses the torrent. This is known as seeding. When a lot of people start to seed the torrent, they eventually become faster and more reliable than a DDL.
+When the recipient starts downloading the torrent, it downloads directly from the person who shared it, completely bypassing the need for a central server. When the other person finishes downloading it, they start uploading it to anyone else who uses the torrent. This is known as seeding. When a lot of people start to seed the torrent, they eventually become faster and more reliable than a DDL. 
+
+In terms of pirated content, torrents are heavily preferred. For starters, a torrent cannot be taken down. ***Ever.*** As long as at least one person is seeding the torrent, it will be available for download. Even if no one is seeding the torrent when you first try to download it, all it takes is for one person to boot up their PC with the torrent client open and that file to start uploading.
+
+Torrents, however, ***require a good, paid VPN.*** Without it, you may receive emails or letters from your ISP telling you to stop downloading torrents. You may even ***have your internet service temporarily suspended.*** As long as you have a good VPN, the chances of these things happening are very low. The chances are reduced even further to basically 0% if you follow this guide correctly.
+
+### Which is best for me?
+Both have their advantages and disadvantages. Which is best for you depends on your circumstances.
+
+If you:
+* Can afford a VPN (can be as little as $3 a month for a very fast VPN!)
+* Don't mind leaving your computer on and seeding during the day
+* Don't have a data cap on your internet plan
+* Have 5 minutes or so to set a torrent client up
+* Want the fastest speeds possible
+
+Then torrents are for you. If you don't meet these requirements, stick to DDLs. Of course, you don't need to just use one or the other. Feel free to change between the two.
