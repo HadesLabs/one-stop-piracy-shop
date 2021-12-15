@@ -50,11 +50,42 @@ If you:
 
 Then torrents are for you. If you don't meet these requirements, stick to DDLs. Of course, you don't need to just use one or the other. Feel free to change between the two.
 
-## VPNs
+## Helpful Utilities
+### VPNs
 If you're torrenting, you need a VPN. Period. Without a VPN, your IP address is leaked to anyone downloading the torrent from you, which means two things. First, you could get DDoSed, or it could be used to gather information about you. Second, you'll probably get an email or letter from your ISP telling you to stop torrenting. This is more common. After a few emails and letters, it's possible that your ISP could temporarily or permanently suspend your internet service. Or you'll just get a heap of letters and that's not good for the environment (there's a great post on r/piracy where this guy has like 15 letters from comcast but i cant find it to link it here).
 
 * [Windscribe](https://windscribe.com/) ⭐ - Fantastic, highly affordable VPN that works great for torrents. You can get one pro country and unlimited bandwidth across all servers for just $2USD a month with the [Build-A-Plan](https://windscribe.com/upgrade) tier. All servers (unless noted) work great for torrenting. Windscribe had over [55,000 requests](https://windscribe.com/transparency) for data in December of 2021 because of users torrenting content and complied with 0 of them because they didn't have any logs.
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. It gives you a free trial for a week when you download the app and login that can be easily abused by just creating more accounts. Use [GuerillaMail](https://www.guerrillamail.com/) to generate temporary emails for this. Includes servers optimised for torrents.
 * [NordVPN](https://nordvpn.com/) - Experience the internet without anyone looking over your shoulder. Work, stream, and play safely with the world’s leading VPN. Includes servers that are optimised for torrents. 
 
-## 
+### Adblocking 
+Piracy websites tend to have a lot of ads, which are typically more invasive or malicious because of the sites illegal nature. Luckily, we can block them.
+
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ - An efficient blocker add-on for various browsers. Fast, potent, and lean. Blocks trackers, ads, pop-ups, everything. Amazing utility for desktop.
+* [Brave Browser](https://brave.com/) - Browser with built in ad and tracker blocker. More suited for mobile users.
+
+### Torrent Clients
+* [qBittorrent](https://www.qbittorrent.org/) ⭐ - The tagline for this software is "Free and reliable P2P Bittorrent client" and they're damn right. qBittorrent is fast, efficient, and feature-filled. I highly recommend this over any other program. Also contains a torrent search engine.
+* [Transmission](https://transmissionbt.com/download/) - A Fast, Easy, and Free Bittorrent Client.
+
+## Avoid these sites!!
+Piracy can be dangerous. Not just legally, but in terms of viruses and other nasty programs that could end up on your PC or phone. To be extra safe, avoid these programs and sites.
+
+* The Pirate Bay - One of the oldest names in the book, yet one of the most dangerous. TPB is filled with fake and malicious uploads and should only be used when you are proficient in spotting fake downloads.
+* uTorrent - What used to be one of the best torrent clients is now one you should steer clear of. They have been caught bundling malicious programs like cryptominers and adware into the installer, and the client has ads.
+* uTorrent Web - Same as uTorrent.
+* Bittorrent - Same as uTorrent. Bittorrent is a program that is named after the protocol. Downloading through Bittorrent is safe, using the Bittorrent program is not.
+
+## Movies and TV
+### Streaming Sites
+* [Soap2Day](https://soapgate.org/) ⭐ - Heaps of HD content, no VPN required, super fast load times. 
+* [LookMovie](https://lookmovie.io/) - HD streaming servers, decently fast loading times. Has cam rips if you desperately want a new release.
+* [Streamlord](http://www.streamlord.com/index.html) - Nice interface, very fast servers and HD content. Slightly familiar orange and black colour scheme.
+
+### DDL
+* [DDLValley](https://www.ddlvalley.me/) - General purpose DDL site that happens to contain movies and TV shows. Torrents are recommended if you can use them.
+
+### Torrents ([VPN required](https://github.com/HadesButGithub/one-stop-piracy-shop#vpns))
+* [RARBG](http://rarbg.to/index80.php) ⭐ - General purpose torrent site, but very good for movies and TV shows.
+* [YTS](https://yts.mx) ⭐ - High resolution Bluray and web movie rips at very small file sizes (compared to other HD rips).
+* [EZTV](https://eztv.re/) - Large collection of TV torrents.
