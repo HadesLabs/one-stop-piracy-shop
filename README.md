@@ -36,7 +36,7 @@ When the recipient starts downloading the torrent, it downloads directly from th
 
 In terms of pirated content, torrents are heavily preferred. For starters, a torrent cannot be taken down. ***Ever.*** As long as at least one person is seeding the torrent, it will be available for download. Even if no one is seeding the torrent when you first try to download it, all it takes is for one person to boot up their PC with the torrent client open and that file to start uploading.
 
-Torrents, however, ***require a good, paid VPN.*** Without it, you may receive emails or letters from your ISP telling you to stop downloading torrents. You may even ***have your internet service temporarily suspended.*** As long as you have a good VPN, the chances of these things happening are very low. The chances are reduced even further to basically 0% if you follow this guide correctly.
+Torrents, however, [***require a good, paid VPN.***](https://github.com/HadesButGithub/one-stop-piracy-shop#vpns) Without it, you may receive emails or letters from your ISP telling you to stop downloading torrents. You may even ***have your internet service temporarily suspended.*** As long as you have a good VPN, the chances of these things happening are very low. The chances are reduced even further to basically 0% if you follow this guide correctly.
 
 ### Which is best for me?
 Both have their advantages and disadvantages. Which is best for you depends on your circumstances.
