@@ -14,7 +14,7 @@ Do these phrases sound familiar to you?
 
 Well, you've come to the right place. We're crossing over to the dark side, one that corporations are forcing us to with awful business practices and [stupidly expensive prices](https://www.thegamer.com/square-enix-70-price-pc/).
 
-If you're new to piracy, by the end of this guide you'll be armed with hundreds of links to anything you could possibly want. You will be "that guy" in your friend group or family WhatsApp chat who can get anything for anyone. If you're a veteran pirate, stick around. You might find some links you've never heard of, or you might even be able to suggest some links to be added.
+If you're new to piracy, by the end of this guide you'll be armed with hundreds of links to anything you could possibly want. You will be "that guy" in your friend group or family WhatsApp chat who can get anything for anyone. If you're a veteran pirate, stick around. You might find some links you've never heard of, or you might even be able to suggest some links to be added. Anything with a ⭐ is a program that I recommend. If you don't know what to pick, pick the one with the star.
 
 ## Need help? Have links I don't have?
 If you need help with anything written here, or you have some links that I don't have, please contact me via Discord at HadesButDiscord#4177. I would love to hear anything you've got to say.
@@ -49,3 +49,12 @@ If you:
 * Want the fastest speeds possible
 
 Then torrents are for you. If you don't meet these requirements, stick to DDLs. Of course, you don't need to just use one or the other. Feel free to change between the two.
+
+## VPNs
+If you're torrenting, you need a VPN. Period. Without a VPN, your IP address is leaked to anyone downloading the torrent from you, which means two things. First, you could get DDoSed, or it could be used to gather information about you. Second, you'll probably get an email or letter from your ISP telling you to stop torrenting. This is more common. After a few emails and letters, it's possible that your ISP could temporarily or permanently suspend your internet service. Or you'll just get a heap of letters and that's not good for the environment (there's a great post on r/piracy where this guy has like 15 letters from comcast but i cant find it to link it here).
+
+* [Windscribe](https://windscribe.com/) ⭐ - Fantastic, highly affordable VPN that works great for torrents. You can get one pro country and unlimited bandwidth across all servers for just $2USD a month with the [Build-A-Plan](https://windscribe.com/upgrade) tier. All servers (unless noted) work great for torrenting. Windscribe had over [55,000 requests](https://windscribe.com/transparency) for data in December of 2021 because of users torrenting content and complied with 0 of them because they didn't have any logs.
+* [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. It gives you a free trial for a week when you download the app and login that can be easily abused by just creating more accounts. Use [GuerillaMail](https://www.guerrillamail.com/) to generate temporary emails for this. Includes servers optimised for torrents.
+* [NordVPN](https://nordvpn.com/) - Experience the internet without anyone looking over your shoulder. Work, stream, and play safely with the world’s leading VPN. Includes servers that are optimised for torrents. 
+
+## 
