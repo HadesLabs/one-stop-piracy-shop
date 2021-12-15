@@ -89,3 +89,27 @@ Piracy can be dangerous. Not just legally, but in terms of viruses and other nas
 * [RARBG](http://rarbg.to/index80.php) ⭐ - General purpose torrent site, but very good for movies and TV shows.
 * [YTS](https://yts.mx) ⭐ - High resolution Bluray and web movie rips at very small file sizes (compared to other HD rips).
 * [EZTV](https://eztv.re/) - Large collection of TV torrents.
+
+## Games
+### Windows
+* [FitGirl Repacks](https://fitgirl-repacks.site/) ⭐ - PC games that have been heavily compressed. This will save time on the download, but the game will be the same size as a normal install after it finishes installing, and the install procedure will take significantly longer. Heaps of games though, including Switch games with an emulator ready to go included in all of them. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
+* [DODI Repacks](https://dodi-repacks.site/) - Same concept as FitGirl. Slightly bigger repacks but faster install time. Also has Switch games. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
+* [SteamUnlocked](https://steamunlocked.net/) ⭐ - PC games ready to be played as soon as they finish downloading, no install needed. Download servers are hit-or-miss, being fast some days and slow on others. Heaps of games, including VR titles. *Some popular downloads have torrents as an option, but the site is primarily DDL. Use a VPN when torrenting.*
+
+### Nintendo Switch
+These games can be downloaded and played through an emulator or on a Switch that has had CFW installed. Check out [r/SwitchPirates](https://reddit.com/r/SwitchPirates) for more information on using CFW to pirate games.
+
+* [nsw2u](https://nsw2u.xyz/) ⭐ - Contains heaps of Switch games. Some downloads use torrents, these are indicated on the cover art of the game. You may need to disconnect from your VPN to get into the website because of the DDoS protection. Just remember to completely quit your torrent client before doing this, and turn it back on before downloading any torrents from the site.
+* [Softcobra](https://www.softcobra.com/ntdo/ntdo-swh/swh-nsp-collection/) - Switch games again. All the links will need to be decoded through the [Nin10news decoder](https://nin10news.com/decode/). Check nsw2u before using this site. *Most, if not all, downloads use torrents. Use a VPN when torrenting.*
+
+### PS4
+PS4 emulation is currently unusable and difficult to setup. These downloads are for people on a PS4 with CFW. I have not tested any of these links.
+
+* [Auctor](https://auctor.tv/category/ps4/)
+* [PKGPS4](https://www.pkgps4.com/)
+* [PS4ISO](https://www.ps4iso.net/)
+
+### Retro
+This is just assorted retro downloads. You'll need an emulator like [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/) to use these downloads.
+* [Vimm's Lair](https://vimm.net) ⭐ - Complete collections of a lot of consoles. Original Xbox, DS, PS1, PS2, and heaps more. Too many to list.
+* [Retrostic](https://www.retrostic.com/) - Has more consoles and faster downloads, but the collections aren't complete.
