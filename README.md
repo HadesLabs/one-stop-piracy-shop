@@ -71,10 +71,15 @@ Piracy websites tend to have a lot of ads, which are typically more invasive or 
 ## Avoid these sites!!
 Piracy can be dangerous. Not just legally, but in terms of viruses and other nasty programs that could end up on your PC or phone. To be extra safe, avoid these programs and sites.
 
-* The Pirate Bay - One of the oldest names in the book, yet one of the most dangerous. TPB is filled with fake and malicious uploads and should only be used when you are proficient in spotting fake downloads.
+* The Pirate Bay - One of the oldest names in the book, yet one of the most dangerous. TPB is filled with fake and malicious uploads and should never be used for software or games. Other types of media, like movies and TV, should be fine if you take [some steps](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to keep yourself safe from malware, but you should check other websites first.
 * uTorrent - What used to be one of the best torrent clients is now one you should steer clear of. They have been caught bundling malicious programs like cryptominers and adware into the installer, and the client has ads.
-* uTorrent Web - Same as uTorrent.
-* Bittorrent - Same as uTorrent. Bittorrent is a program that is named after the protocol. Downloading through Bittorrent is safe, using the Bittorrent program is not.
+* uTorrent Web - Owned by the same company as uTorrent.
+* Bittorrent - Owned by the same company as uTorrent.
+* BitLord Torrent Client - Malware
+* Soda Stream - Malware
+* Sidify - Says they can download from Spotify, but it just downloads from YouTube and gets metadata from other places.
+* Allavsoft - Same as Sidify.
+* PeerBlock - Claims to block copyright notices, but it doesn't work. Use a VPN.
 
 ## Movies and TV
 ### Streaming Sites
