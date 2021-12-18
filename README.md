@@ -71,7 +71,8 @@ Piracy websites tend to have a lot of ads, which are typically more invasive or 
 ## Avoid these sites!!
 Piracy can be dangerous. Not just legally, but in terms of viruses and other nasty programs that could end up on your PC or phone. To be extra safe, avoid these programs and sites.
 
-* The Pirate Bay - One of the oldest names in the book, yet one of the most dangerous. TPB is filled with fake and malicious uploads and should never be used for software or games. Other types of media, like movies and TV, should be fine if you take [some steps](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to keep yourself safe from malware, but you should check other websites first.
+* [The Pirate Bay](http://thepiratebay.org/) - One of the oldest names in the book, yet one of the most dangerous. TPB is filled with fake and malicious uploads and should never be used for software or games. Other types of media, like movies and TV, should be fine if you take [some steps](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to keep yourself safe from malware, but you should check other websites first.
+* [SteamUnlocked](https://steamunlocked.net/) - After further research, I've deemed this site potentially malicious. Files provided by the site are generally safe, but ad redirects may contain malware. Download servers are also sketchy and slow, avoid if possible. If you can't find a game on any other site, come here as a last resort.
 * uTorrent - What used to be one of the best torrent clients is now one you should steer clear of. They have been caught bundling malicious programs like cryptominers and adware into the installer, and the client has ads.
 * uTorrent Web - Owned by the same company as uTorrent.
 * Bittorrent - Owned by the same company as uTorrent.
@@ -99,8 +100,6 @@ Piracy can be dangerous. Not just legally, but in terms of viruses and other nas
 ### Windows
 * [FitGirl Repacks](https://fitgirl-repacks.site/) ⭐ - PC games that have been heavily compressed. This will save time on the download, but the game will be the same size as a normal install after it finishes installing, and the install procedure will take significantly longer. Heaps of games though, including Switch games with an emulator ready to go included in all of them. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
 * [DODI Repacks](https://dodi-repacks.site/) - Same concept as FitGirl. Slightly bigger repacks but faster install time. Also has Switch games. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
-* [SteamUnlocked](https://steamunlocked.net/) ⭐ - PC games ready to be played as soon as they finish downloading, no install needed. Download servers are hit-or-miss, being fast some days and slow on others. Heaps of games, including VR titles. *Some popular downloads have torrents as an option, but the site is primarily DDL. Use a VPN when torrenting.*
-
 ### Nintendo Switch
 These games can be downloaded and played through an emulator or on a Switch that has had CFW installed. Check out [r/SwitchPirates](https://reddit.com/r/SwitchPirates) for more information on using CFW to pirate games.
 
