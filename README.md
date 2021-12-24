@@ -1,10 +1,18 @@
 # Hades' One-Stop Piracy Shop
 A one-stop shop for all your piracy needs. Guides, links, links to other guides and resources. Everything the beginner or veteran pirate needs.
 
+**I highly encourage you to read all the information on this site before downloading anything. Make sure you understand how to stay safe while pirating content.**
+
 *Please keep in mind that this Github page is a work in progress. Things may be missing, resources may be changed, links may be broken.*
 
 ## Contents
-to be added
+- [Welcome!](https://github.com/HadesLabs/one-stop-piracy-shop#welcome)
+- [Need help? Have links I don't have?](https://github.com/HadesLabs/one-stop-piracy-shop#need-help-have-links-i-dont-have)
+- [What the hell is a torrent and why should I use them?](https://github.com/HadesLabs/one-stop-piracy-shop#what-the-hell-is-a-torrent-and-why-should-i-use-them)
+- [Helpful Utilities](https://github.com/HadesLabs/one-stop-piracy-shop#helpful-utilities)
+- [Avoid these sites!!](https://github.com/HadesLabs/one-stop-piracy-shop#avoid-these-sites)
+- [Movies and TV](https://github.com/HadesLabs/one-stop-piracy-shop#movies-and-tv)
+- [Games](https://github.com/HadesLabs/one-stop-piracy-shop#games)
 
 ## Welcome!
 Do these phrases sound familiar to you? 
@@ -52,7 +60,7 @@ Then torrents are for you. If you don't meet these requirements, stick to DDLs. 
 
 ## Helpful Utilities
 ### VPNs
-If you're torrenting, you need a VPN. Period. Without a VPN, your IP address is leaked to anyone downloading the torrent from you, which means two things. First, you could get DDoSed, or it could be used to gather information about you. Second, you'll probably get an email or letter from your ISP telling you to stop torrenting. This is more common. After a few emails and letters, it's possible that your ISP could temporarily or permanently suspend your internet service. Or you'll just get a heap of letters and that's not good for the environment (there's a great post on r/piracy where this guy has like 15 letters from comcast but i cant find it to link it here).
+If you're torrenting, you need a VPN. Period. Without a VPN, your IP address is leaked to anyone downloading the torrent from you, which means two things. First, you could get DDoSed, or it could be used to gather information about you. Second, you'll probably get an email or letter from your ISP telling you to stop torrenting. This is more common. After a few emails and letters, it's possible that your ISP could temporarily or permanently suspend your internet service. Or you'll just get a heap of letters and that's not good for the environment (there's a great post on r/piracy where this guy has like 15 letters from comcast but i cant find it to link it here). A VPN can also be used to unblock DDL and streaming site that have been blocked by your ISP.
 
 * [Windscribe](https://windscribe.com/) ⭐ - Fantastic, highly affordable VPN that works great for torrents. You can get one pro country and unlimited bandwidth across all servers for just $2USD a month with the [Build-A-Plan](https://windscribe.com/upgrade) tier. All servers (unless noted) work great for torrenting. Windscribe had over [55,000 requests](https://windscribe.com/transparency) for data in December of 2021 because of users torrenting content and complied with 0 of them because they didn't have any logs.
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. It gives you a free trial for a week when you download the app and login that can be easily abused by just creating more accounts. Use [GuerillaMail](https://www.guerrillamail.com/) to generate temporary emails for this. Includes servers optimised for torrents.
