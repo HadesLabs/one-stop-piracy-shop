@@ -73,6 +73,7 @@ Piracy can be dangerous. Not just legally, but in terms of viruses and other nas
 
 * [The Pirate Bay](http://thepiratebay.org/) - One of the oldest names in the book, yet one of the most dangerous. TPB is filled with fake and malicious uploads and should never be used for software or games. Other types of media, like movies and TV, should be fine if you take [some steps](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to keep yourself safe from malware, but you should check other websites first.
 * [SteamUnlocked](https://steamunlocked.net/) - After further research, I've deemed this site potentially malicious. Files provided by the site are generally safe, but ad redirects may contain malware. Download servers are also sketchy and slow, avoid if possible. If you can't find a game on any other site, come here as a last resort.
+* IGGGames - Known for injecting their own DRM into games, and for extremely scummy practices, like doxxing the owner and forcing the shutdown of GoodOldDownloads, one of the best DDL game sites. IGGGames releases are safe to download on 1337x however.
 * uTorrent - What used to be one of the best torrent clients is now one you should steer clear of. They have been caught bundling malicious programs like cryptominers and adware into the installer, and the client has ads.
 * uTorrent Web - Owned by the same company as uTorrent.
 * Bittorrent - Owned by the same company as uTorrent.
@@ -100,14 +101,18 @@ Piracy can be dangerous. Not just legally, but in terms of viruses and other nas
 ### Windows
 * [FitGirl Repacks](https://fitgirl-repacks.site/) ⭐ - PC games that have been heavily compressed. This will save time on the download, but the game will be the same size as a normal install after it finishes installing, and the install procedure will take significantly longer. Heaps of games though, including Switch games with an emulator ready to go included in all of them. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
 * [DODI Repacks](https://dodi-repacks.site/) - Same concept as FitGirl. Slightly bigger repacks but faster install time. Also has Switch games. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
+* [1337x](http://1337x.to/) - General torrent site, great for games. Contains releases from the Scene and from repackers like DODI and FitGirl. *All downloads use torrents. Use a VPN when torrenting.*
+* [Masquerade Repacks](https://masquerade.site/) - Same as DODI and FitGirl. Includes repacks of Xbox 360 games with emulators. *Uses torrents alongside Google Drive and other DDL links. Use a VPN when torrenting.*
+* [GamesDrive](https://gamesdrive.net) - Forum for game cracks. Requires JDownloader to download games. Instructions are on game releases. *DDL only.*
+* [Steam Underground - cs.rin.ru](https://cs.rin.ru/) - Very reputable forum for game cracks. Website appears to be in Russian at first, translate the page to English and sign up for an account. You'll be brought to an English forum which you can use to download your games.
 ### Nintendo Switch
-These games can be downloaded and played through an emulator or on a Switch that has had CFW installed. Check out [r/SwitchPirates](https://reddit.com/r/SwitchPirates) for more information on using CFW to pirate games.
+These games can be downloaded and played through an emulator or on a Switch that has had CFW installed. Check out [r/SwitchPirates](https://reddit.com/r/SwitchPirates) for more information on using CFW to pirate games. If using an emulator, see if FitGirl or DODI has a repack first, as it will be significantly easier to setup.
 
 * [nsw2u](https://nsw2u.xyz/) ⭐ - Contains heaps of Switch games. Some downloads use torrents, these are indicated on the cover art of the game. You may need to disconnect from your VPN to get into the website because of the DDoS protection. Just remember to completely quit your torrent client before doing this, and turn it back on before downloading any torrents from the site.
 * [Softcobra](https://www.softcobra.com/ntdo/ntdo-swh/swh-nsp-collection/) - Switch games again. All the links will need to be decoded through the [Nin10news decoder](https://nin10news.com/decode/). Check nsw2u before using this site. *Most, if not all, downloads use torrents. Use a VPN when torrenting.*
 
 ### PS4
-PS4 emulation is currently unusable and difficult to setup. These downloads are for people on a PS4 with CFW. I have not tested any of these links.
+PS4 emulation is currently unusable, difficult to setup, only works on Linux, and requires a modded PS4. These downloads are for people on a PS4 with CFW. I have not tested any of these links. These may or may not use torrents.
 
 * [Auctor](https://auctor.tv/category/ps4/)
 * [PKGPS4](https://www.pkgps4.com/)
