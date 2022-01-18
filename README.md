@@ -108,6 +108,7 @@ Piracy can be dangerous. Not just legally, but in terms of viruses and other nas
 ## Games
 ### Windows
 * [FitGirl Repacks](https://fitgirl-repacks.site/) ⭐ - PC games that have been heavily compressed. This will save time on the download, but the game will be the same size as a normal install after it finishes installing, and the install procedure will take significantly longer. Heaps of games though, including Switch games with an emulator ready to go included in all of them. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
+* [SteamRip](https://steamrip.com) ⭐ - A safe alternative to SteamUnlocked. Much faster downloads that typically use the full capabilities of your internet connection. *Some downloads use torrents. Use a VPN when torrenting.*
 * [DODI Repacks](https://dodi-repacks.site/) - Same concept as FitGirl. Slightly bigger repacks but faster install time. Also has Switch games. *Most, if not all, downloads use torrents along side DDLs. Use a VPN when torrenting.*
 * [1337x](http://1337x.to/) - General torrent site, great for games. Contains releases from the Scene and from repackers like DODI and FitGirl. *All downloads use torrents. Use a VPN when torrenting.*
 * [Masquerade Repacks](https://masquerade.site/) - Same as DODI and FitGirl. Includes repacks of Xbox 360 games with emulators. *Uses torrents alongside Google Drive and other DDL links. Use a VPN when torrenting.*
